@@ -1,4 +1,4 @@
-# ConvexOptimization2
+# ConvexOptimization2, graduate course
 ## This repository includes all the assignments, the slides, and the final project of the Convex Optimization II course.
 
 
@@ -25,7 +25,7 @@
   - Indirect decomposition
   - Hierarchical decomposition
   - Applications and use cases
-- ** Optimization in communication networks** :
+- **Optimization in communication networks** :
     - Transmission Control Protocol (TCP)- Optimization-based congestion control
     - Fairness in Resource Allocation Problems
     - Generalized Network Utility Maximization
