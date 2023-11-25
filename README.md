@@ -9,7 +9,7 @@
 - [Project](https://github.com/arhp78/ConvexOptimization2/tree/main/Project): Multi-Objective Portfolio Optimization
 
 ### This course contains the following topics:
-- ** Combinatorial Optimization **:  *Linear programming and its applications (Multi-commodity flow problem)
+- **Combinatorial Optimization**:  *Linear programming and its applications (Multi-commodity flow problem)
   *Mixed integer programming
   *Approximation algorithms (LP relaxation, rounding methods)
   *Set cover and Knapsack problem analysis
