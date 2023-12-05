@@ -1,4 +1,4 @@
-# ConvexOptimization2, graduate course
+# ConvexOptimization2, Graduate course
 ## This repository includes all the assignments, the slides, and the final project of the Convex Optimization II course.
 
 
