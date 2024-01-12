@@ -1,5 +1,5 @@
 # ConvexOptimization2, Graduate course
-## This repository includes all the assignments, the slides, and the final project of the Convex Optimization II course.
+## This repository includes all the assignments, the slides, and the final project of the Convex Optimization II graduate course.
 
 
 - [HW1](https://github.com/arhp78/ConvexOptimization2/tree/main/HW1): Linear Programming, Integer Programming
